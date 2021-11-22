@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://merttavsan.github.io/csb-3vjr2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://merttavsan.github.io/csb-3vjr2/static/js/main.7c38a585.chunk.js",
+    "main.js.map": "https://merttavsan.github.io/csb-3vjr2/static/js/main.7c38a585.chunk.js.map",
+    "runtime-main.js": "https://merttavsan.github.io/csb-3vjr2/static/js/runtime-main.ea9e1981.js",
+    "runtime-main.js.map": "https://merttavsan.github.io/csb-3vjr2/static/js/runtime-main.ea9e1981.js.map",
+    "static/js/2.0251b17a.chunk.js": "https://merttavsan.github.io/csb-3vjr2/static/js/2.0251b17a.chunk.js",
+    "static/js/2.0251b17a.chunk.js.map": "https://merttavsan.github.io/csb-3vjr2/static/js/2.0251b17a.chunk.js.map",
+    "index.html": "https://merttavsan.github.io/csb-3vjr2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://merttavsan.github.io/csb-3vjr2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0251b17a.chunk.js.LICENSE.txt": "https://merttavsan.github.io/csb-3vjr2/static/js/2.0251b17a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea9e1981.js",
+    "static/js/2.0251b17a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7c38a585.chunk.js"
+  ]
+}
